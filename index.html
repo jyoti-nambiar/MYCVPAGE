@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Jyoti Nambiar</title>
+  <link rel="stylesheet" href="css/Styles.css">
+  <link rel="icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Jomolhari|Merriweather&display=swap" rel="stylesheet">
+
+<body>
+  <div class="container">
+<img class="Topcloud" src="Images/cloud.png" alt="cloud-img">
+    <h1>I´m Jyoti</h1>
+    <h2> I am a <span class="pro">Pro</span>grammer </h2>
+  <img class="Bottomcloud" src="Images/cloud.png" alt="cloud-img">
+  <img class="MountainImg" src="Images/mountain.png" alt="mountain-img">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img class="Myimg" src="IMG-7912.JPG" alt="Profile pic">
+      <h2>Hello</h2>
+      <p class="hello">Hello I am Jyoti Nambiar, I am  a passionate learner.I like learning different technologies and making use of it. I can help you create interactive web pages according to your taste and needs</p>
+    </div>
+    <hr>
+    <div class="Hobbies">
+      <h2>My Hobbies</h2>
+      <div class="skill-row">
+        <img class="Yoga" src="https://cdn.doyouyoga.com/articles/the-10-most-important-yoga-poses-for-beginners-25270-bbaRsJ6k.jpg=w768" alt="Yoga pic">
+        <h3>Yoga & Meditation</h3>
+        <p class="Yogatext">It helps me maintain a healthy lifestyle and is a excellent stress buster for me💆‍ </p>
+      </div>
+      <div class="skill-row">
+        <img class="cooking" src="https://media3.s-nbcnews.com/j/newscms/2019_41/3044956/191009-cooking-vegetables-al-1422_ae181a762406ae9dce02dd0d5453d1ba.fit-2000w.jpg" alt="cooking img">
+        <h3>Cooking</h3>
+        <p>It helps me put my ideas into creation👨‍🍳</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>Let us make your site interactive</h3>
+      <p class="contact-message">Let us grow together, let your efforts be known to the world and we will help you with that dream </p>
+      <a class="btn" href="mailto:jyotiarun2214@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+    <a class="footer-link" href="https://twitter.com/">Twitter</a>
+    <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+<p class="footer">© 2019 Jyoti Nambiar @ The Web developer</p>
+
+  </div>
+
+</body>
+
+</html>
