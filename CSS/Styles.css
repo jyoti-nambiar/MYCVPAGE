@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+
+h2{
+  font-size:2.5rem;
+  color:  #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;/*100%= 16px rem is a standard way of sizing the font size as it gets unaffected by any of its holding tag size*/
+  font-family: 'Sacramento', cursive;
+  color:  #66BFBF;
+}
+h3{
+color:  #11999E;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+margin: 10px 20px;
+  text-decoration: none;
+}
+
+p{
+
+  font-family: 'Merriweather Sans', sans-serif;
+    line-height: 2;
+}
+
+.container{
+position: relative;
+  padding-top: 100px;
+background-color: #EAF6F6;
+}
+.Topcloud{
+  position:absolute;
+top:100px;
+right:200px;
+}
+.Bottomcloud{
+  position: absolute;
+top: 400px;
+
+}
+
+.MountainImg{
+  position: relative;
+top: 0;
+}
+.btn {
+position: fixed;
+right:50px;
+  box-shadow: 0px 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.hello{
+  width:30%;
+  margin:auto;
+
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+
+.profile{
+position: relative;
+margin: 100px 100px 100px 100px;
+}
+
+.Myimg{
+  width:200px;
+  height:200px;
+border-radius: 50%;
+
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.Yoga{
+  width:25%;
+float: left;
+margin-right:10px;
+}
+
+.cooking{
+  width:25%;
+float: right;
+}
+
+
+.bottom-container{
+  background-color:#66BFBF;
+height: 150px;
+margin-top: 20px;
+padding-top: 20px;
+}
+.name{
+  margin-bottom: 0;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.footer{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin: 40px auto 10px auto;
+}
