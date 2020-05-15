@@ -60,9 +60,7 @@ left:200px;
   position: relative;
 top: 0;
 }
-.btn {
-	position: fixed;
-	right:50px;
+.btn {	
   box-shadow: 0px 1px 0 0 #f0f7fa;
 	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
 	background-color:#33bdef;
@@ -83,8 +81,9 @@ top: 0;
 	background-color:#019ad2;
 }
 .btn:active {
-	position:relative;
+	position:fixed;
 	top:1px;
+	right:20px;
 }
 
 
